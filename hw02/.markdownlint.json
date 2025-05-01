@@ -1,0 +1,11 @@
+{
+    "MD033": {
+      "allowed_elements": [
+        "summary",
+        "details",
+        "samp",
+        "strong",
+        "br"
+      ]
+    }
+  }
