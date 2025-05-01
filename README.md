@@ -2,3 +2,5 @@
 
 * [hw\_02](https://github.com/E-Mi-Zh/otus_neteng_prof/tree/master/hw02) -
    VLAN и маршрутизация между VLAN
+* [hw\_03](https://github.com/E-Mi-Zh/otus_neteng_prof/tree/master/hw03) -
+   STP. Развёртывание коммутируемой сети с резервными каналами
