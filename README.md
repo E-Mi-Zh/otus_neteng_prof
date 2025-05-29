@@ -8,3 +8,5 @@
   DHCPv4/v6 и SLAAC
 * [hw\_11](https://github.com/E-Mi-Zh/otus_neteng_prof/tree/master/hw11) -
   Архитектура сети
+* [hw\_12](https://github.com/E-Mi-Zh/otus_neteng_prof/tree/master/hw12) -
+  Маршрутизация на основе политик (PBR)
