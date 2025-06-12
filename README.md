@@ -10,3 +10,5 @@
   Архитектура сети
 * [hw\_12](https://github.com/E-Mi-Zh/otus_neteng_prof/tree/master/hw12) -
   Маршрутизация на основе политик (PBR)
+* [hw\_15](https://github.com/E-Mi-Zh/otus_neteng_prof/tree/master/hw15) -
+  Фильтрация OSPF
