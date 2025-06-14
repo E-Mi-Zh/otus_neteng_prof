@@ -12,3 +12,5 @@
   Маршрутизация на основе политик (PBR)
 * [hw\_15](https://github.com/E-Mi-Zh/otus_neteng_prof/tree/master/hw15) -
   Фильтрация OSPF
+* [hw\_19](https://github.com/E-Mi-Zh/otus_neteng_prof/tree/master/hw19) -
+  IS-IS
