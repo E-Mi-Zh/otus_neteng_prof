@@ -16,3 +16,5 @@
   IS-IS
 * [hw\_21](https://github.com/E-Mi-Zh/otus_neteng_prof/tree/master/hw21) -
   EIGRP
+* [hw\_25](https://github.com/E-Mi-Zh/otus_neteng_prof/tree/master/hw25) -
+  eBGP
