@@ -18,3 +18,5 @@
   EIGRP
 * [hw\_25](https://github.com/E-Mi-Zh/otus_neteng_prof/tree/master/hw25) -
   eBGP
+* [hw\_27](https://github.com/E-Mi-Zh/otus_neteng_prof/tree/master/hw27) -
+  iBGP
