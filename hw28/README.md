@@ -62,7 +62,8 @@ R18(config)#ip prefix-list LOC_PREF seq 50 permit 10.0.0.16/32
 R18(config)#ip prefix-list LOC_PREF seq 60 permit 10.0.0.17/32
 R18(config)#ip prefix-list LOC_PREF seq 70 permit 10.0.0.18/32
 R18(config)#ip prefix-list LOC_PREF seq 80 permit 10.0.0.32/32
-R18(config)#ip prefix-list LOC_PREF seq 90 deny 0.0.0.0/0 le 32
+R18(config)#ip prefix-list LOC_PREF seq 90 permit 0.0.0.0/0
+R18(config)#ip prefix-list LOC_PREF seq 100 deny 0.0.0.0/0 le 32
 ```
 
 Применим его к входящим и исходящим префиксам в сторону провайдера «Триада»:
