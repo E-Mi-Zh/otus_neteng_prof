@@ -24,3 +24,5 @@
   BGP фильтрация
 * [hw\_33](https://github.com/E-Mi-Zh/otus_neteng_prof/tree/master/hw33) -
   протоколы DHCP, NAT, NTP
+* [hw\_36](https://github.com/E-Mi-Zh/otus_neteng_prof/tree/master/hw36) -
+  VPN. GRE. DMVPN
