@@ -646,8 +646,9 @@ trace to 192.168.50.30, 8 hops max, press Ctrl+C to stop
  5   *192.168.50.30   5.222 ms (ICMP type:3, code:3, Destination port unreachable)
 ```
 
-Трафиик в клиентскую сеть офиса «Чокурдах» идёт через DMVPN.
+Трафик в клиентскую сеть офиса «Чокурдах» идёт через DMVPN.
 
+```text
 VPC30> trace 192.168.10.1
 trace to 192.168.10.1, 8 hops max, press Ctrl+C to stop
  1   192.168.50.28   1.308 ms  0.936 ms  0.672 ms
@@ -655,6 +656,7 @@ trace to 192.168.10.1, 8 hops max, press Ctrl+C to stop
  3   172.16.10.4   3.077 ms  4.048 ms  2.678 ms
  4   172.16.10.16   2.863 ms  4.610 ms  2.663 ms
  5   *192.168.10.1   3.614 ms (ICMP type:3, code:3, Destination port unreachable)
+```
 
 ## Файлы настроек
 
